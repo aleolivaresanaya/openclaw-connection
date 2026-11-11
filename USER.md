@@ -28,3 +28,16 @@ Replace the example below with a real directive and a real observation date befo
 ## Related
 
 - [Agent workspace](/concepts/agent-workspace)
+
+## Contexto de Ale
+
+- Nombre preferido: Ale.
+- Estudio Ingeniería de IA en 4Geeks Academy.
+- Trabajo en tareas administrativas y comunicación profesional en español e inglés.
+- Desarrollo proyectos web, incluido Brasaland, y apoyo el proyecto Casa de Reposo Eterna Primavera.
+- Uso GitHub, Codespaces y Copilot para mis proyectos.
+- Necesito organizar mis estudios y redactar mensajes claros con menos trabajo repetitivo.
+- Para aprender, prefiero explicaciones sencillas, ejemplos concretos y pasos cortos.
+- En ejercicios de preguntas, no reveles la respuesta antes de que yo intente resolverla.
+- Para correos en inglés, usa un tono profesional, breve y natural; no inventes datos ni compromisos.
+- Zona horaria: America/Mexico_City.
