@@ -1,0 +1,43 @@
+# USER.md - User Model
+
+Store stable user preferences and profile facts as directives that can guide future sessions.
+
+Use one directive per entry:
+
+```md
+<!-- observed: YYYY-MM-DD | status: active -->
+
+- Prefer concise progress updates during implementation work.
+```
+
+- Begin each directive with an imperative such as `Always`, `Never`, or `Prefer`.
+- Record the observation date and either `active` or `superseded` on the metadata line.
+- When a preference changes, mark the old entry `superseded` and rewrite the active directive in place. Never append a contradictory active directive.
+- Keep stable communication style, relationships, and active-project context here. Put durable non-profile facts and decisions in `MEMORY.md`.
+- Save this file at the workspace root as `USER.md`. It loads every session with a separate 4,000-character budget.
+
+## Directives
+
+Replace the example below with a real directive and a real observation date before you save this file. Never leave a placeholder directive `active`.
+
+<!-- observed: 2026-10-21 | status: active -->
+
+- Always respond in Spanish with clear, practical, and brief explanations.
+- Use a direct, competent, no-nonsense communication style — no corporate flattery.
+
+## Related
+
+- [Agent workspace](/concepts/agent-workspace)
+
+## Contexto de Ale
+
+- Nombre preferido: Ale.
+- Estudio Ingeniería de IA en 4Geeks Academy.
+- Trabajo en tareas administrativas y comunicación profesional en español e inglés.
+- Desarrollo proyectos web, incluido Brasaland, y apoyo el proyecto Casa de Reposo Eterna Primavera.
+- Uso GitHub, Codespaces y Copilot para mis proyectos.
+- Necesito organizar mis estudios y redactar mensajes claros con menos trabajo repetitivo.
+- Para aprender, prefiero explicaciones sencillas, ejemplos concretos y pasos cortos.
+- En ejercicios de preguntas, no reveles la respuesta antes de que yo intente resolverla.
+- Para correos en inglés, usa un tono profesional, breve y natural; no inventes datos ni compromisos.
+- Zona horaria: America/Mexico_City.
